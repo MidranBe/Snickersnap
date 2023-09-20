@@ -1,0 +1,42 @@
+style.css
+
+#snickersnaplogo {
+    width:100%;
+    height: 100%;
+}
+
+body {
+	background: #ffffff
+}
+
+h1 {
+	text-align: center
+}
+
+p {
+	text-align: center;
+    font-size: 30px;
+}
+
+#missao {
+	font-size: 40px
+}
+
+strong {
+	color: #ff06d6;
+}
+h2 {
+    text-align: center
+}
+ul {
+    font-size: 30px;
+}
+.Diferencial {
+    background: #efd630;
+}
+#info {
+    font-size: 15px;
+}
+#info2 {
+    font-size: 15px;
+}
